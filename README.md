@@ -21,16 +21,16 @@ Utilizing these engineered columns, I answered the following questions:
 - Calculated the proportion of all passengers that ended on a station on the Yellow Line. Additionally, I provided an optional - LevelUp task where I extracted whether a station is one of the four stations in downtown San Francisco.
 
 **3. DoorDash Delivery Dataset:✅** In this project, I conducted an exploration of delivery times and cuisine trends in major cities across the U.S. to assist the marketing team in rolling out coupons and promotions. Here's what I accomplished:
--Filled in the delivery_time column with the number of minutes it took between when an order was created and when it was delivered.
--Determined the average number of minutes it took for orders to be delivered across all orders in the data period.
--Calculated the standard deviation for the number of minutes it took for orders to be delivered.
--Created a PivotTable summarizing the total number of orders made, the average delivery time, and the average price of orders made in each market region.
--Identified the market with the highest total number of orders, the market with the lowest average delivery time, and the market with the highest average order price.
--Created a new PivotTable summarizing the total number of orders made by the primary category of each store, sorted by the number of orders made in descending order.
--Determined the most popular overall cuisine type and modified the PivotTable to add a grouping by market region and change the count of orders to be a percentage within each market region.
--Calculated the percentage of orders made in Boston from places labeled as 'chinese.'
--Identified the number of regions where the most popular overall cuisine was also the most popular within an individual market region.
--Determined the region with the highest percentage of orders coming from a 'sandwich' shop. Additionally, I completed the optional LevelUp activity by creating a PivotTable of the average delivery time by cuisine type, sorted it, and created a horizontal bar chart. The cuisine with the shortest average delivery time was highlighted in the PivotTable.
+- Filled in the delivery_time column with the number of minutes it took between when an order was created and when it was delivered.
+- Determined the average number of minutes it took for orders to be delivered across all orders in the data period.
+- Calculated the standard deviation for the number of minutes it took for orders to be delivered.
+- Created a PivotTable summarizing the total number of orders made, the average delivery time, and the average price of orders made in each market region.
+- Identified the market with the highest total number of orders, the market with the lowest average delivery time, and the market with the highest average order price.
+- Created a new PivotTable summarizing the total number of orders made by the primary category of each store, sorted by the number of orders made in descending order.
+- Determined the most popular overall cuisine type and modified the PivotTable to add a grouping by market region and change the count of orders to be a percentage within each market region.
+- Calculated the percentage of orders made in Boston from places labeled as 'chinese.'
+- Identified the number of regions where the most popular overall cuisine was also the most popular within an individual market region.
+- Determined the region with the highest percentage of orders coming from a 'sandwich' shop. Additionally, I completed the optional LevelUp activity by creating a PivotTable of the average delivery time by cuisine type, sorted it, and created a horizontal bar chart. The cuisine with the shortest average delivery time was highlighted in the PivotTable.
 
 **4. Winter Sports Dataset:✅** In this project, I examined Google search trends of Winter Olympic sports to gauge interest in various winter sports over the years. Here's what I accomplished:
 - Created a line chart capturing the trend in interest levels in "curling" over the recorded time span, revealing a noticeable rise in search interest around the beginning of winter and a decline around the end of winter. This seasonal pattern aligns with the traditional timing of the curling season, as the sport is often associated with colder months.
