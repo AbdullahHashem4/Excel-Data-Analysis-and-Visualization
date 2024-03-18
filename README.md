@@ -1,7 +1,8 @@
 # Excel Data Visualization Projects 💹 
 ## Global Tech Experience Internship - Excel Analysis
 
-**1. Youtube Dataset:✅** In this project, I analyzed trending patterns across various video categorieso from Youtube in Excel. - I identified numeric columns, excluding certain ones like trending_date, publish_time, and category_id from standard numerical treatment due to their contextual relevance. 
+**1. Youtube Dataset:✅** In this project, I analyzed trending patterns across various video categorieso from Youtube in Excel. 
+- I identified numeric columns, excluding certain ones like trending_date, publish_time, and category_id from standard numerical treatment due to their contextual relevance. 
 - Additionally, I recognized text columns lacking natural ordering for interpretation beyond their textual representation.
 - Further, I determined the number of boolean columns in the dataset. 
 - Using functions, I determined the total number of videos, total likes, and average views on trending videos. 
